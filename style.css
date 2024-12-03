@@ -3,3 +3,14 @@ h1  {
     font-weight: bold;
     color: blue;
 }
+
+h2  {
+    font-weight: bolder;
+    font-family: system-ui;
+}
+
+h6  {
+    color: aqua;
+    background-color: chartreuse;
+}
+
