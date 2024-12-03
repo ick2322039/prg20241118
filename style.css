@@ -5,12 +5,15 @@ h1  {
 }
 
 h2  {
-    font-weight: bolder;
-    font-family: system-ui;
+    color: antiquewhite;
+    background-color: black;
 }
+
+
 
 h6  {
     color: aqua;
-    background-color: chartreuse;
+    background-color: black;
 }
+
 
