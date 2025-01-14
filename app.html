@@ -12,6 +12,22 @@
 
         <button onclick="location.href='./index.htm'">戻る</button>
 
+<input type="button" value="送信"onclick="ques()">
+
+        <script>
+            function ques(){
+                if(window.confirm("申し込みますか")){
+alert("完了しました")
+setTimeout(() =>{
+    location.href = "./index.htm";
+},3000);
+
+                }else{
+                 send();
+                }
+            }
+        </script>
+
 <h6>天文台は実在しません</h6>
     </body>
 </html>
